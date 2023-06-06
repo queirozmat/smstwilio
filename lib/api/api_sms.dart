@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 
 class ApiSMS {
   String username = 'AC6a67596188c0dc4c9b3a8183a663376e'; // SID do Twilio
-  String password = 'f3a8cdbf4293bd6818fe8377c79dcce8'; // Token do Twilio
+  String password = '54d152929a5d98164986eda7749c3358'; // Token do Twilio
 
   String from = '+13612829466'; // Número do Twilio
 
